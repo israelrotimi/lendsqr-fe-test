@@ -78,7 +78,7 @@ Ensure you have the following installed on your development environment:
 To start the application in development mode:
 
 ```bash
-npm start
+npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the application.
@@ -116,7 +116,7 @@ lendsqr-fe-test/
 
 In the project directory, you can run:
 
-- **`npm start`**: Runs the app in development mode.
+- **`npm run dev`**: Runs the app in development mode.
 - **`npm run build`**: Builds the app for production.
 - **`npm test`**: Launches the test runner.
 
