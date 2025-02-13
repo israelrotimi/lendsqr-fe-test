@@ -81,7 +81,14 @@ To start the application in development mode:
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the application.
+
+Login with the following credentials:
+
+```javascript
+username: "test@example.com" // Fake email
+password: "pass@123" // You should change this password
+```
 
 ## Project Structure
 
